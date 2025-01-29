@@ -31,10 +31,3 @@ Once the entry or exit of a vehicle is detected, **Arduino** is used to trigger 
 - **Arduino Board (e.g., Arduino Uno)**: For controlling the LED indicators.
 - **LED Lights**: For visual feedback.
 
-## Installation
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/yourusername/Real-Time-Vehicle-Tracking.git
-   cd Real-Time-Vehicle-Tracking
