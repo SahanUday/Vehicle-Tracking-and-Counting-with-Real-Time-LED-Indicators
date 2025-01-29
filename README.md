@@ -32,11 +32,7 @@ Once the entry or exit of a vehicle is detected, **Arduino** is used to trigger 
 - **LED Lights**: For visual feedback.
 
 ## Results
-
-### 📸 Image Output
-![Vehicle Detection](results/img.jpg)
-
-### 🎥 Video Output  
+### 🎥 Video 
 [![Watch the Demo](https://img.youtube.com/vi/8ymdCnLBVdQ/0.jpg)](https://www.youtube.com/watch?v=8ymdCnLBVdQ)
 
 Click on the image above to watch the project in action on **YouTube**.
