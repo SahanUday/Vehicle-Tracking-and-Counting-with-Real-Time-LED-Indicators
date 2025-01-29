@@ -37,6 +37,7 @@ Once the entry or exit of a vehicle is detected, **Arduino** is used to trigger 
 ![Vehicle Detection](results/img.jpg)
 
 ### 🎥 Video Output  
-https://github.com/SahanUday/Real-Time-Vehicle-Tracking/blob/main/results/vid.mp4  
+[![Watch Video](https://youtu.be/xYCMvTKjw-s)
+
 (*Click the link to view the video*)  
 
