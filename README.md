@@ -37,7 +37,7 @@ Once the entry or exit of a vehicle is detected, **Arduino** is used to trigger 
 ![Vehicle Detection](results/img.jpg)
 
 ### 🎥 Video Output  
-[![Watch Video](https://youtu.be/xYCMvTKjw-s)
+[![Watch Video](https://www.youtube.com/watch?v=xYCMvTKjw-s)
 
 (*Click the link to view the video*)  
 
